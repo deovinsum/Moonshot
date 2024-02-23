@@ -21,6 +21,7 @@
 		9282C5492B8763D600820188 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9282C5482B8763D600820188 /* Mission.swift */; };
 		9282C54B2B87753E00820188 /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9282C54A2B87753E00820188 /* Color-Theme.swift */; };
 		9282C54D2B878B7200820188 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9282C54C2B878B7200820188 /* MissionView.swift */; };
+		9282CD5F2B892A8E00D26D72 /* CrewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9282CD5E2B892A8E00D26D72 /* CrewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		9282C5482B8763D600820188 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
 		9282C54A2B87753E00820188 /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		9282C54C2B878B7200820188 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
+		9282CD5E2B892A8E00D26D72 /* CrewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				9218B8D52B8919E9007D85B5 /* GridView.swift */,
 				9218B8D72B891B41007D85B5 /* ListView.swift */,
 				9282C54C2B878B7200820188 /* MissionView.swift */,
+				9282CD5E2B892A8E00D26D72 /* CrewView.swift */,
 				921DC6772B87C25600668783 /* AstronautView.swift */,
 				9282C54A2B87753E00820188 /* Color-Theme.swift */,
 				9282C5402B87570F00820188 /* astronauts.json */,
@@ -174,6 +177,7 @@
 				9218B8D82B891B41007D85B5 /* ListView.swift in Sources */,
 				921DC6782B87C25600668783 /* AstronautView.swift in Sources */,
 				9282C54B2B87753E00820188 /* Color-Theme.swift in Sources */,
+				9282CD5F2B892A8E00D26D72 /* CrewView.swift in Sources */,
 				9282C5352B87564300820188 /* ContentView.swift in Sources */,
 				9282C5332B87564300820188 /* MoonshotApp.swift in Sources */,
 				9282C5492B8763D600820188 /* Mission.swift in Sources */,
