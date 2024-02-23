@@ -5,10 +5,6 @@ import SwiftUI
 struct ListView: View {
     let astronauts: [String: Astronaut]
     let missions: [Mission]
-    
-    let columns = [
-        GridItem(.adaptive(minimum: 150))
-    ]
 
     var body: some View {
         ScrollView {
